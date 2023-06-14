@@ -117,7 +117,7 @@ group :test do
   gem 'capybara', '~> 3.39'
 
   # Used to mock environment variables
-  gem 'climate_control', '~> 0.2'
+  gem 'climate_control', '~> 1.0'
 
   # Generating fake data for specs
   gem 'faker', '~> 3.2'
